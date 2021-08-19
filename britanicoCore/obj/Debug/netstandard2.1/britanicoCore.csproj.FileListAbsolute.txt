@@ -1,0 +1,8 @@
+C:\src\BritanicoProject\britanicoCore\bin\Debug\netstandard2.1\britanicoCore.deps.json
+C:\src\BritanicoProject\britanicoCore\bin\Debug\netstandard2.1\britanicoCore.dll
+C:\src\BritanicoProject\britanicoCore\obj\Debug\netstandard2.1\britanicoCore.AssemblyInfoInputs.cache
+C:\src\BritanicoProject\britanicoCore\obj\Debug\netstandard2.1\britanicoCore.AssemblyInfo.cs
+C:\src\BritanicoProject\britanicoCore\bin\Debug\netstandard2.1\britanicoCore.pdb
+C:\src\BritanicoProject\britanicoCore\obj\Debug\netstandard2.1\britanicoCore.csproj.CoreCompileInputs.cache
+C:\src\BritanicoProject\britanicoCore\obj\Debug\netstandard2.1\britanicoCore.dll
+C:\src\BritanicoProject\britanicoCore\obj\Debug\netstandard2.1\britanicoCore.pdb
